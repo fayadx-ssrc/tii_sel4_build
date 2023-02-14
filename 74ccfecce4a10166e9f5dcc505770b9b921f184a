@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8e0cb67f_3e7a8521",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2023-02-14T06:52:16Z",
+      "side": 1,
+      "message": "just a readme update to check gerrit workflow",
+      "revId": "74ccfecce4a10166e9f5dcc505770b9b921f184a",
+      "serverId": "92921cf0-942d-4ce6-a905-73b388af4736"
+    }
+  ]
+}
