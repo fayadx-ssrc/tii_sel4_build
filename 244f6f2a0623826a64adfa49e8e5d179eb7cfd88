@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5933bcf5_82914612",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2023-02-14T07:24:12Z",
+      "side": 1,
+      "message": "This is a change submitted to demostrate gerrit, please review the change and commit",
+      "revId": "244f6f2a0623826a64adfa49e8e5d179eb7cfd88",
+      "serverId": "92921cf0-942d-4ce6-a905-73b388af4736"
+    }
+  ]
+}
