@@ -1,5 +1,3 @@
-## forked from tii
-
 # TII seL4 build system
 
 These instructions have been tested with Ubuntu 20.10 desktop and Fedora 33.
