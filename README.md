@@ -2,7 +2,7 @@
 ## testing gerrit codereview
 ## this is a new edit, checking codereview using gerrit
 ## another edit
-## edit to check sync issue
+## edit to check sync issue ..
 
 # TII seL4 build system
 
